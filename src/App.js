@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div>
         <Header/>
-        <h1> lets build airbnb clone</h1>
+        <h1> lets build airbnb clone, yeah !</h1>
           <Home/>
 
       </div>
